@@ -29,3 +29,32 @@ body {
   font-family: unchangedThoughts;
   font-size: 6rem;
 }
+
+.play {
+  align-items: center;
+  bottom: 26%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 45px;
+  margin-top: 50px;
+  position: absolute;
+  right: 0;
+}
+
+.play img {
+  margin-top: 5px;
+  width: 50px;
+}
+
+.play p {
+  color: white;
+}
+
+.play h4 {
+  color: white;
+  font-family: unchangedThoughts;
+  font-size: 2rem;
+  font-weight: normal;
+  margin-right: 30px;
+}
